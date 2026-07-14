@@ -29,10 +29,15 @@ EduGenie is a lightweight AI-powered educational assistant designed to simplify 
 EduGenie/
 │
 #├── app/
+
 #├── static/
+
 #├── templates/
+
 #├── README.md
+
 #├── requirements.txt
+
 #└── .gitignore
 
 
